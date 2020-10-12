@@ -4,7 +4,8 @@ Created on Wed Oct  7 16:25:19 2020
 
 @author: Matheus
 """
-#Algoritmo Genético -> knapsack problem
+#Algoritmo Genético -> knapsack problem 
+#Teste
 
 import numpy as np
 
